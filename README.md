@@ -1,4 +1,4 @@
-# Text_Sanitize_Auto
+# Text_Sanitizer_Auto
 
 ## Overview
 
